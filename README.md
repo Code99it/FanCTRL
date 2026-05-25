@@ -29,4 +29,4 @@ Connect the 4-pin fan connector directly to the designated header on the FanCTRL
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/FanCTRL.git](https://github.com/YOUR_USERNAME/FanCTRL.git)
+   git clone [https://github.com/Code99it/FanCTRL.git](https://github.com/Code99it/FanCTRL.git)
